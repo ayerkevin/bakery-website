@@ -5,6 +5,7 @@ objective : to develop an interactive website for users
 
 
 features: 
+
 -slide show to showcase pastries 
 
 -order management to process costumer orders 
